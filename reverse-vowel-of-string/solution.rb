@@ -8,7 +8,6 @@ def reverse_vowels(s)
   # replace the index with reversed vowel
   vowel_index = []
   vowel_array = []
-  counter = 0
   string_array = s.chars
   string_array.each_with_index do |letter, index|
     if letter.match?(/[aeiouAEIOU]/)
@@ -16,11 +15,11 @@ def reverse_vowels(s)
       vowel_index << index
     end
   end
-  vowel_index.each do |index|
-    string_array[index] = vowel_array.join.reverse.chars[counter]
-    counter += 1
+  rev_vowel = vowel_array.join.reverse.chars
+  vowel_index.each_with_index do |vindex, index|
+    string_array[vindex] = rev_vowel[index]
   end
-  p string_array.join
+  string_array.join
 end
 
-reverse_vowels("aA")
+reverse_vowels("leetcode")
