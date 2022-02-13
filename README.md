@@ -7,3 +7,4 @@ this is where i attempt leetcode challenges in ruby
 2. Completed Two Sum
 3. Completed Reverse Vowels of String
 4. Completed Roman to Integer in python
+5. Completed Binary Search
