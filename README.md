@@ -9,3 +9,4 @@ this is where i attempt leetcode challenges in ruby
 4. Completed Roman to Integer in python
 5. Completed Binary Search
 6. Completed First Bad Version
+7. Completed Search Insert Position
