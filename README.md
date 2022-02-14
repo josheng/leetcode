@@ -11,3 +11,4 @@ this is where i attempt leetcode challenges in ruby
 6. Completed First Bad Version
 7. Completed Search Insert Position
 8. Completed Square of Sorted Array
+9. Completed Rotate Array
