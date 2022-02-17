@@ -13,3 +13,4 @@ this is where i attempt leetcode challenges in ruby
 8. Completed Square of Sorted Array
 9. Completed Rotate Array
 10. Completed Find Minimum in Rotated Sorted Array
+11. Completed Move Zeroes
