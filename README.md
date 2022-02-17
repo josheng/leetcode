@@ -12,3 +12,4 @@ this is where i attempt leetcode challenges in ruby
 7. Completed Search Insert Position
 8. Completed Square of Sorted Array
 9. Completed Rotate Array
+10. Completed Find Minimum in Rotated Sorted Array
