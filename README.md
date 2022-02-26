@@ -1,7 +1,5 @@
 # leetcode challenges
-this is where i attempt leetcode challenges in ruby
-
-**Currently attempting Easy mode**
+this is where i attempt leetcode challenges
 
 1. Completed Palindrome Number on 12 Jan 2022
 2. Completed Two Sum
@@ -16,3 +14,4 @@ this is where i attempt leetcode challenges in ruby
 11. Completed Move Zeroes
 12. Completed Two Sum II
 13. Completed Best Time to Buy and Sell Stock
+14. Completed Longest Common Prefix in JS
