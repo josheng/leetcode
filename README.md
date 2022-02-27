@@ -15,3 +15,4 @@ this is where i attempt leetcode challenges
 12. Completed Two Sum II
 13. Completed Best Time to Buy and Sell Stock
 14. Completed Longest Common Prefix in JS
+15. Completed Valid Parentheses in JS
